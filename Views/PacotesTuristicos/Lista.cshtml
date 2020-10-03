@@ -1,0 +1,34 @@
+@model IEnumerable<PacotesTuristicos>
+    @{
+        ViewData["Title"]= "Listagem de Pacotes Turisticos";
+    }
+    <h2>Listagem de Pacotes Turisticos</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Origem</th>
+                <th>Destino</th>
+                <th>Atrativos</th>
+                <th>Data de Saida</th>
+                <th>Data de Retorno</th>
+                <th>Usuario</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (PacotesTuristicos p in Model)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Nome</td>
+                    <td>@p.Origem</td>
+                    <td>@p.Destino</td>
+                    <td>@p.Atrativos</td>
+                    <td>@p.DataSaida</td>
+                    <td>@p.DataRetorno</td>
+                    <td>@p.Usuario</td>
+                </tr>
+            }
+        </tbody>
+    </table>
