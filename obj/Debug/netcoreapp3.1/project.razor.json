@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Viagem.csproj",
+  "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Viagem.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,63 +14392,63 @@
   "RootNamespace": "Viagem",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\PacotesTuristicos\\Cadastro.cshtml",
-      "TargetPath": "Views\\PacotesTuristicos\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Usuario\\Cadastro.cshtml",
-      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Home\\FaleConosco.cshtml",
+      "TargetPath": "Views\\Home\\FaleConosco.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\PacotesTuristicos\\Lista.cshtml",
-      "TargetPath": "Views\\PacotesTuristicos\\Lista.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Usuario\\Lista.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Usuario\\Lista.cshtml",
       "TargetPath": "Views\\Usuario\\Lista.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Home\\Lista.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Home\\Lista.cshtml",
       "TargetPath": "Views\\Home\\Lista.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Home\\QuemSomos.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Home\\QuemSomos.cshtml",
       "TargetPath": "Views\\Home\\QuemSomos.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\PacotesTuristicos\\Cadastro.cshtml",
+      "TargetPath": "Views\\PacotesTuristicos\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Usuario\\Login.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Usuario\\Login.cshtml",
       "TargetPath": "Views\\Usuario\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Fabrício\\Desktop\\Viagem\\Views\\Home\\FaleConosco.cshtml",
-      "TargetPath": "Views\\Home\\FaleConosco.cshtml",
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\Usuario\\Cadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Fabrício\\Documents\\repositorio local git\\BackEnd-\\Views\\PacotesTuristicos\\Lista.cshtml",
+      "TargetPath": "Views\\PacotesTuristicos\\Lista.cshtml",
       "FileKind": "mvc"
     }
   ],
